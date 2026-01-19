@@ -1,0 +1,23 @@
+# Lines starting with "#" are comments.
+
+# Notation:
+# tex_name file_path
+
+cell_wall       cells\wall.png
+cell_mover      cells\mover.png
+cell_generator  cells\generator.png
+cell_rotatorcw  cells\rotatorcw.png
+cell_rotatorccw cells\rotatorccw.png
+cell_rotator180 cells\rotator180.png
+cell_push       cells\push.png
+cell_slide      cells\slide.png
+cell_enemy      cells\enemy.png
+cell_trash      cells\trash.png
+
+grid_blank grid\blank.png
+
+gui_none  gui\none.png
+gui_play  gui\play.png
+gui_pause gui\pause.png
+gui_step  gui\step.png
+gui_stop  gui\stop.png
